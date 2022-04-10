@@ -69,12 +69,15 @@ Woodtrack est un projet de 2ème année d'école d'ingénieur en filière IESE �
 
 ## 🧑‍💻 Contributeurs
 
-Anas Bachri - [anas.bachri@etu.univ-grenoble-alpes.fr](mailto:anas.bachri@etu.univ-grenoble-alpes.fr)<br>
-Alex Fouilleul - [alex.fouilleul@etu.univ-grenoble-alpes.fr](mailto:alex.fouilleul@etu.univ-grenoble-alpes.fr)<br>
-Sarah Pallaro - [sarah.pallaro@etu.univ-grenoble-alpes.fr](mailto:sarah.pallaro@etu.univ-grenoble-alpes.fr)<br>
+Anas Bachri (développeur) - [anas.bachri@etu.univ-grenoble-alpes.fr](mailto:anas.bachri@etu.univ-grenoble-alpes.fr)<br>
+Alex Fouilleul (développeur) - [alex.fouilleul@etu.univ-grenoble-alpes.fr](mailto:alex.fouilleul@etu.univ-grenoble-alpes.fr)<br>
+Sarah Pallaro (cheffe de projet) - [sarah.pallaro@etu.univ-grenoble-alpes.fr](mailto:sarah.pallaro@etu.univ-grenoble-alpes.fr)<br>
 
-Polytech Grenoble 
-Université Grenoble Alpes
+Projets IESE4 - 2022
+
+Par : Polytech Grenoble<br>
+De : Université Grenoble Alpes<br>
+Pour : Scierie Bois Du Dauphiné
 
 ## 📝 Licence
 
