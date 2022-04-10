@@ -1,4 +1,4 @@
-# Bienvenue sur Woodtrack - Une solution pour prévenir du vol de bois🌳
+# Bienvenue sur Woodtrack - Une solution pour prévenir du vol de bois 🌳
 
 <p align="center">
   <img src="Images/Logo.png" width="100">
@@ -16,7 +16,7 @@ Woodtrack est un projet de 2ème année d'école d'ingénieur en filière IESE �
 - Simple d'implémentation
 - Traquer plusieurs positions GPS
 - Communication Bluetooth Low Energy (BLE)
-- Longue durée de batterie
+- Batterue longue durée
 - Peu couteux
 - Robuste et fiable
 
@@ -27,7 +27,7 @@ Woodtrack est un projet de 2ème année d'école d'ingénieur en filière IESE �
 - Ouvrir la localisation dans une application tierce (Google Maps)
 - Stocker des positions *(en cours de développement)*
 - Très compacte avec une faible quantité de mémoire utilisée
-- Compatible à partie d'Android 2.3 (Gingerbread) 
+- Compatible à partir d'Android 2.3 (Gingerbread) 
 
 ## Guide de démarrage et d'utilisation
 
@@ -67,6 +67,7 @@ Woodtrack est un projet de 2ème année d'école d'ingénieur en filière IESE �
 - Une sangle à cliquet
 - PCB (fichiers fournis)
 - Boitier (fichiers fournis)
+- Un smartphone Android
 
 ## 🧑‍💻 Contributeurs
 
