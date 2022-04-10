@@ -11,15 +11,36 @@
 Woodtrack est un projet de 2ème année d'école d'ingénieur en filière IESE à Polytech Grenoble. Ce projet vise à proposer une solution destinée à la scierie [Bois Du Dauphinée (BDD)](https://www.scierie-bdd.com/) afin de contrer le problème de vol de bois lors de la livraison de celui-ci.
 
 ## ⚙️ Fonctionnalités
+- Le système
+  - Traquer plusieurs positions GPS
+  - Communication Bluetooth Low Energy (BLE)
+  - Longue durée de batterie
+  - Peu couteux
+
 - Application Android
-  - Traquer 3 positions 
   - Affichage des positions sur la carte avec des marqueurs
   - Les marqueurs peuvent donner la latitude, longitude et l'heure
   - Postionner la localisation sur Google Maps
   - Stockage des positions *(en cours de développement)*
-- Communication Bluetooth Low Energy (BLE)
-- Longue durée de batterie
-- Peu couteux
+
+## Guide de démarrage et d'utilisation
+
+### Mise en place du système
+
+1. Connectez l'Arduino au PC et téléversez le programme.
+2. Soudez les composants sur le PCB en faisant attention au sens de branchement du connecteur de pile.
+3. Connectez la pile et démarrez le système en utilisant l'interrupteur situé sous le module GPS.
+4. Installez le boitier sur la sangle.
+5. Insérez le système à l'intérieur de la boite et refermez la à l'aide du couvercle.
+6. Téléchargez le fichier .apk sur votre smartphone et installez-le.
+
+### Utilisation du système
+1. Amusez-vous à fermer et ouvrir la sangle à différents endroits.
+2. Ouvrez la sangle, lancez l'application puis cliquez sur le bouton **Scanner**.
+3. Sélectionner le traqueur Woodtrack.
+4. Patientez quelques secondes pour ensuite apercevoir les différentes positions GPS sur l'application.
+5. Vous pouvez cliquer sur les marqueurs et zommer/dézommer pour avoir plus d'informations sur les positions.
+6. Une fois la session terminée pensez à vous déconnecter en utilisant le bouton **Déconnexion**.
 
 ## 🖼️ Démonstration
 
