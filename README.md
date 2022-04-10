@@ -1,7 +1,7 @@
 # Bienvenue sur Woodtrack - Une solution pour prévenir du vol de bois🌳
 
 <p align="center">
-  <img src="Logo.png" width="100">
+  <img src="Images/Logo.png" width="100">
 </a>
 
   </p>
@@ -23,9 +23,14 @@ Woodtrack est un projet de 2ème année d'école d'ingénieur en filière IESE �
 
 ## 🖼️ Démonstration
 
+*(Ajouter photos et vidéos)*
+<p align="center">
+  <img src="Images/Demo.png" width="100">
+</a>
+
 ## 💻 Matériel
 
-- Arduino Nano 33 Ble](https://store.arduino.cc/products/arduino-nano-33-ble)
+- Arduino Nano 33 Ble
 - Adafruit Ultimate GPS
 - Interrupteur à lame souple (ILS)
 - Résistance 1kΩ
