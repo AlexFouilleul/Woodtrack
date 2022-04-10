@@ -1,5 +1,11 @@
 # Bienvenue sur Woodtrack - Une solution pour prévenir du vol de bois🌳
 
+<p align="center">
+  <img src="Logo.png" width="100">
+</a>
+
+  </p>
+
 ## 💡 Introduction
 
 Woodtrack est un projet de 2ème année d'école d'ingénieur en filière IESE à Polytech Grenoble. Ce projet vise à proposer une solution destinée à la scierie [Bois Du Dauphinée (BDD)](https://www.scierie-bdd.com/) afin de contrer le problème de vol de bois lors de la livraison de celui-ci.
@@ -19,7 +25,7 @@ Woodtrack est un projet de 2ème année d'école d'ingénieur en filière IESE �
 
 ## 💻 Matériel
 
-- Arduino Nano 33 Ble
+- Arduino Nano 33 Ble](https://store.arduino.cc/products/arduino-nano-33-ble)
 - Adafruit Ultimate GPS
 - Interrupteur à lame souple (ILS)
 - Résistance 1kΩ
