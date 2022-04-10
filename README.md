@@ -12,16 +12,21 @@ Woodtrack est un projet de 2ème année d'école d'ingénieur en filière IESE �
 
 ## ⚙️ Fonctionnalités
 - Le système
+  - Simple d'implémentation
   - Traquer plusieurs positions GPS
   - Communication Bluetooth Low Energy (BLE)
   - Longue durée de batterie
   - Peu couteux
+  - Robuste et fiable
 
 - Application Android
+  - Simple d'utilisation
   - Affichage des positions sur la carte avec des marqueurs
-  - Les marqueurs peuvent donner la latitude, longitude et l'heure
-  - Postionner la localisation sur Google Maps
-  - Stockage des positions *(en cours de développement)*
+  - Les marqueurs peuvent donner l'heure, la latitude et la longitude
+  - Ouvrir la localisation dans une application tierce (Google Maps)
+  - Stocker des positions *(en cours de développement)*
+  - Très compacte avec une faible quantité de mémoire utilisée
+  - Compatible à partie d'Android 2.3 (Gingerbread) 
 
 ## Guide de démarrage et d'utilisation
 
