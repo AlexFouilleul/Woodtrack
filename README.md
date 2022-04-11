@@ -65,6 +65,7 @@ Woodtrack est un projet de 2ème année d'école d'ingénieur en filière IESE �
 - Pile 9V
 - Connecteur Pile 9V
 - Une sangle à cliquet
+- Un ou des aimants
 - PCB (fichiers fournis)
 - Boitier (fichiers fournis)
 - Un smartphone Android
