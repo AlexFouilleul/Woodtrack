@@ -14,7 +14,7 @@ Woodtrack est un projet de 2ème année d'école d'ingénieur en filière IESE �
 - Simple d'implémentation
 - Traquer plusieurs positions GPS
 - Communication Bluetooth Low Energy (BLE)
-- Batterue longue durée
+- Grande autonomie
 - Peu couteux
 - Robuste et fiable
 
