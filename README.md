@@ -33,7 +33,7 @@ Woodtrack est un projet de 2ème année d'école d'ingénieur en filière IESE �
 
 <img src="Images/Demo1.jpg" width="300"> <img src="Images/Demo2.jpg" width="300">
 
-## Guide de démarrage et d'utilisation
+## 📂 Guide de démarrage et d'utilisation
 
 ### Mise en place du système
 
