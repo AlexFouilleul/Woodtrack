@@ -2,9 +2,7 @@
 
 <p align="center">
   <img src="Images/Logo.png" width="100">
-</a>
-
-  </p>
+</p>
 
 ## 💡 Introduction
 
@@ -29,6 +27,12 @@ Woodtrack est un projet de 2ème année d'école d'ingénieur en filière IESE �
 - Très compacte avec une faible quantité de mémoire utilisée
 - Compatible à partir d'Android 2.3 (Gingerbread) 
 
+## 🖼️ Démonstration
+
+*(Ajouter photos et vidéos)*
+
+<img src="Images/Demo1.jpg" width="300"> <img src="Images/Demo2.jpg" width="300">
+
 ## Guide de démarrage et d'utilisation
 
 ### Mise en place du système
@@ -47,13 +51,6 @@ Woodtrack est un projet de 2ème année d'école d'ingénieur en filière IESE �
 4. Patientez quelques secondes pour ensuite apercevoir les différentes positions GPS sur l'application.
 5. Vous pouvez cliquer sur les marqueurs et zommer/dézommer pour avoir plus d'informations sur les positions.
 6. Une fois la session terminée pensez à vous déconnecter en utilisant le bouton **Déconnexion**.
-
-## 🖼️ Démonstration
-
-*(Ajouter photos et vidéos)*
-<p align="center">
-  <img src="Images/Demo.png" width="100">
-</a>
 
 ## 💻 Matériel
 
