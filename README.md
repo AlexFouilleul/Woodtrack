@@ -58,13 +58,11 @@ https://user-images.githubusercontent.com/72225568/162793481-6fc9f6b5-7332-4f23-
 
 - Arduino Nano 33 Ble
 - Adafruit Ultimate GPS
-- Interrupteur à lame souple (ILS)
-- Résistance 1kΩ
+- Interrupteur à lame souple (ILS) + Aimants
+- Résistance (de 1kΩ)
 - Interrupteur 
-- Pile 9V
-- Connecteur Pile 9V
+- Pile 9V + Connecteur pile
 - Une sangle à cliquet
-- Un ou des aimants
 - PCB (fichiers fournis)
 - Boitier (fichiers fournis)
 - Un smartphone Android
