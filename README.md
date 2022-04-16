@@ -29,9 +29,8 @@ Woodtrack est un projet de 2ème année d'école d'ingénieur en filière IESE �
 
 ## 🖼️ Démonstration
 
-*(Ajouter photos et vidéos)*
 
-<img src="Images/Demo1.jpg" width="300"> <img src="Images/Demo2.jpg" width="300"> <img src="Images/Demo3.jpg" width="300">  
+<img src="Images/Demo1.jpg" width="250"> <img src="Images/Demo2.jpg" width="250"> <img src="Images/Demo3.jpg" width="250">  
 
 https://user-images.githubusercontent.com/72225568/162793481-6fc9f6b5-7332-4f23-95e1-6f130a6b8214.mp4
 
@@ -47,6 +46,7 @@ https://user-images.githubusercontent.com/72225568/162793481-6fc9f6b5-7332-4f23-
 6. Téléchargez le fichier .apk sur votre smartphone et installez-le.
 
 ### Utilisation du système
+
 1. Amusez-vous à fermer et ouvrir la sangle à différents endroits.
 2. Ouvrez la sangle, lancez l'application puis cliquez sur le bouton **Scanner**.
 3. Sélectionner le traqueur Woodtrack.
