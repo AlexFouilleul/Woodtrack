@@ -22,13 +22,13 @@ Woodtrack est un projet de 2ème année d'école d'ingénieur en filière IESE �
 - Simple d'utilisation
 - Affichage des positions sur la carte avec des marqueurs
 - Les marqueurs peuvent donner l'heure, la latitude et la longitude
-- Ouvrir la localisation dans une application tierce (Google Maps)
-- Stocker en mémoire les positions *(en cours de développement)*
+- Ouverture de la localisation sélectionnée dans une application tierce (Google Maps)
+- Afficher l'historique des positions
+- Stockage en mémoire des positions
 - Très compacte avec une faible quantité de mémoire utilisée
 - Compatible à partir d'Android 2.3 (Gingerbread) 
 
 ## 🖼️ Démonstration
-
 
 <img src="Images/Demo1.jpg" width="250"> <img src="Images/Demo2.jpg" width="250"> <img src="Images/Demo3.jpg" width="250">  
 
