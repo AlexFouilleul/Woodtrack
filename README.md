@@ -8,6 +8,8 @@
 
 Woodtrack est un projet de 2ème année d'école d'ingénieur en filière IESE à Polytech Grenoble. Ce projet vise à proposer une solution destinée à la scierie [Bois Du Dauphinée (BDD)](https://www.scierie-bdd.com/) afin de contrer le problème de vol de bois lors de la livraison de celui-ci.
 
+https://user-images.githubusercontent.com/72225568/165983296-698be7fe-2862-4f15-b2b9-5189bf0c77c5.mp4
+
 ## ⚙️ Fonctionnalités
 
 ### Le système
@@ -29,8 +31,6 @@ Woodtrack est un projet de 2ème année d'école d'ingénieur en filière IESE �
 - Compatible à partir d'Android 2.3 (Gingerbread) 
 
 ## 🖼️ Démonstration
-
-https://user-images.githubusercontent.com/72225568/165983296-698be7fe-2862-4f15-b2b9-5189bf0c77c5.mp4
 
 <img src="Images/Demo1.jpg" width="250"> <img src="Images/Demo2.jpg" width="250"> <img src="Images/Demo3.jpg" width="250"> 
 
