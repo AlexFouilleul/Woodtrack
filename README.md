@@ -71,7 +71,7 @@ https://user-images.githubusercontent.com/72225568/162793481-6fc9f6b5-7332-4f23-
 
 ## 🧑‍💻 Contributeurs
 
-Anas Bachri (développeur) - [anas.bachri@etu.univ-grenoble-alpes.fr](mailto:Anas.Bachri@etu.univ-grenoble-alpes.fr)<br>
+Anas Bachri (développeur) - [anas.bachri@etu.univ-grenoble-alpes.fr](mailto:anas.Bachri@etu.univ-grenoble-alpes.fr)<br>
 Alex Fouilleul (développeur) - [alex.fouilleul@etu.univ-grenoble-alpes.fr](mailto:alex.fouilleul@etu.univ-grenoble-alpes.fr)<br>
 Sarah Pallaro (cheffe de projet) - [sarah.pallaro@etu.univ-grenoble-alpes.fr](mailto:sarah.pallaro@etu.univ-grenoble-alpes.fr)<br>
 
